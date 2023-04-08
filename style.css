@@ -1,0 +1,68 @@
+.A{
+	display: flex;
+	padding: 25px;
+	background-color: rgba(255, 0, 0, 0.8);
+	justify-content: space-between;	
+
+}
+.B{
+	color: ghostwhite;
+}
+#disha{
+
+	color: ghostwhite;
+	margin: 0px;
+}
+body{
+	margin: 0px;
+	background-color: ghostwhite;
+	background-color: rgba(30, 30, 30, 1);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-left: 	px;
+
+}
+tr{
+	display: flex;
+	border: x solid black;
+	padding: 20px;
+	justify-content: ;
+	
+
+}
+td{
+	display: flex;
+	background-color: ;
+	padding: 10px;
+
+}
+table{
+	display: flex;
+	flex-direction: column;
+}
+a{
+
+	color: ghostwhite;
+	text-decoration: none;
+	margin:px;
+	margin: 20px;
+	font-size: 20px;
+
+
+	
+}
+.hero{
+	display: flex;
+	background-color: blac;
+	flex-direction: column;
+	justify-content: center;
+	height: ;
+}
+.sub{
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+	border: px solid whitesmoke;
+}
